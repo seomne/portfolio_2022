@@ -64,7 +64,7 @@ nav .nav_flex ul > li > ul > li a {
 .fill_right:hover {
     color: var(--white-color);
     transition: color 1s ease;
-    cursor: url(/images/cursor_on.png), auto;
+    cursor: url(images/cursor_on.png), auto;
     opacity: 1;
 }
 .fill_right:after,
@@ -102,7 +102,7 @@ nav .nav_flex ul > li > ul > li a {
     right: 2.2vw;
     width: 50px;
     height: 55px;
-    cursor: url(/images/cursor_on.png), auto;
+    cursor: url(images/cursor_on.png), auto;
 }
 .menu_bar,
 .menu_bar:after,
