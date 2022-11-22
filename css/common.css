@@ -26,11 +26,11 @@
 
 html,
 body {
-  cursor: url(images/cursor.png) 10 10, auto;
+  cursor: url(../images/cursor.png) 10 10, auto;
   user-select: none;
 }
 
 a:hover,
 button:hover {
-  cursor: url(images/cursor_on.png) 10 10, auto;
+  cursor: url(../images/cursor_on.png) 10 10, auto;
 }
