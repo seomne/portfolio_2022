@@ -32,5 +32,5 @@ body {
 
 a:hover,
 button:hover {
-  cursor: url(/portfolio_2022/images/cursor_on.png) 10 10, auto;
+  cursor: url(/portfolio_2022/images/cursor_on.png) 10 10, auto !important;
 }
