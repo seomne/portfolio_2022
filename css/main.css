@@ -617,7 +617,7 @@ footer {
   }
   /* section_hello */
   .hello div {
-    width: 280px;
+    width: 290px;
   }
   .hello p {
     font-size: calc(var(--font-medium) * 1.2);
