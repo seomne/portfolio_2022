@@ -609,12 +609,7 @@ footer {
   }
 }
 @media screen and (max-width: 450px) {
-  .section {
-    padding: calc(var(--large-space) * 1.5);
-    padding-right: calc(var(--big-space) * 1.7);
-  }
-  .intro,
-  .contact_box {
+  .section, .contact_box {
     padding: calc(var(--large-space) * 1.5);
   }
   .section_title {
