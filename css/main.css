@@ -226,15 +226,15 @@
 .slider_arrows button {
   width: 50px;
   height: 50px;
-  background: url(/portfolio_2022/images/next.png) no-repeat center;
-  cursor: url(/portfolio_2022/images/cursor_on.png), auto;
+  background: url(../images/next.png) no-repeat center;
+  cursor: url(../images/cursor_on.png), auto;
   border: 1px solid var(--grey-light-color);
 }
 .slider_arrows button:hover {
   border-color: var(--black-color);
 }
 .slider_arrows button.slick-prev {
-  background: url(/portfolio_2022/images/prev.png) no-repeat center;
+  background: url(../images/prev.png) no-repeat center;
   margin-right: 8px;
 }
 .progress {
