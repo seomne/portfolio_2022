@@ -108,10 +108,13 @@
   align-items: center;
 }
 .intro_txt {
-  flex-basis: 70vw;
+  flex-basis: 60vw;
 }
 .intro_img {
-  flex-basis: 30vw;
+  flex-basis: 40vw;
+}
+.intro_img img{
+  width: 18vw;
 }
 .intro_txt h2 {
   font-size: var(--font-large);
@@ -446,6 +449,11 @@ footer {
   }
   .scroll_down {
     right: -18px;
+  }
+}
+@media screen and (max-width: 1720px) {
+  .intro_img img{
+    width: 306px;
   }
 }
 @media screen and (max-width: 1350px) {
