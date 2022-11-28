@@ -612,6 +612,9 @@ footer {
   .section, .contact_box {
     padding: calc(var(--large-space) * 1.5);
   }
+  .section.hello{
+    padding: 0;
+  }
   .section_title {
     font-size: calc(var(--font-medium) * 1.1);
   }
