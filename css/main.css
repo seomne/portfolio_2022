@@ -187,7 +187,7 @@
 .multiple_items .slick-slide {
   height: 50%;
   margin: 0 10px;
-  cursor: url(/portfolio_2022/images/cursor_on.png), auto;
+  cursor: url(../images/cursor_on.png), auto;
   position: relative;
   border: 1px solid var(--grey-light-color);
   box-sizing: border-box;
@@ -262,8 +262,7 @@
   clip: rect(0, 0, 0, 0);
   border: 0;
 }
-.controller1,
-.controller3 {
+.controller1 {
   display: none;
 }
 
@@ -479,11 +478,6 @@ footer {
   }
   .intro_img {
     text-align: center;
-  }
-}
-@media screen and (max-width: 1030px) {
-  .controller3 {
-    display: flex;
   }
 }
 @media screen and (max-width: 925px) {
